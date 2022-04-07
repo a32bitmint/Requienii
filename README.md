@@ -1,8 +1,12 @@
 # Requienii
 
-Requienii is a (WIP) fork of ProjectDMG, aiming to add some improvements to the original code.
+Requienii is a (WIP) fork of ProjectDMG, aiming to add some improvements to the original code, such as a GUI.
+
 The fork is named after the plant *Mentha requienii*, a smaller plant in the mint family.
+
 The original project's readme is located below.
+
+> Please don't ask me about changes to the emulator itself, contact BluestormDNA regarding anything about the emulation side!
 
 # Original Readme
 
