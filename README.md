@@ -1,4 +1,10 @@
-# ProjectDMG
+# Requienii
+
+Requienii is a (WIP) fork of ProjectDMG, aiming to add some improvements to the original code.
+The fork is named after the plant *Mentha requienii*, a smaller plant in the mint family.
+The original project's readme is located below.
+
+# Original Readme
 
 **ProjectDMG is a C# coded emulator of the Nintendo Game Boy wich was originally codenamed Dot Matrix Game (DMG).**
 
