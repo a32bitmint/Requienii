@@ -6,6 +6,8 @@ The fork is named after the plant *Mentha requienii*, a smaller plant in the min
 
 The original project's readme is located below.
 
+So far, no progress has been made, so this simply hosts the original source.
+
 > Please don't ask me about changes to the emulator itself, contact BluestormDNA regarding anything about the emulation side!
 
 # Original Readme
